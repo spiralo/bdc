@@ -1,0 +1,679 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"im",
+				"image"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"inté",
+				"intégration"
+			],
+			[
+				"Inté",
+				"intégration"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"tra",
+				"transform"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"ove",
+				"overflow-x"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"A",
+				"Annee"
+			],
+			[
+				"fi",
+				"first\t.first()"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"test",
+				"testJQ"
+			],
+			[
+				"margi",
+				"margin-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"ali",
+				"vertical-align"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"off",
+				"offset\t.offset()"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"conte",
+				"conteneur-logo"
+			],
+			[
+				"con",
+				"container-fluid"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"bakc",
+				"background-color"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"sy",
+				"style"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"at",
+				"attr\t.attr() - multiple"
+			],
+			[
+				"mouse",
+				"mouseover\t.mouseover()"
+			],
+			[
+				"col-lg",
+				"col-lg-12"
+			],
+			[
+				"css",
+				"css"
+			],
+			[
+				"Inter",
+				"Internet"
+			],
+			[
+				"align",
+				"text-align"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"lign",
+				"line-height"
+			],
+			[
+				"col-",
+				"col-lg-12"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"nav",
+				"navbar-default"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"html",
+				"html"
+			],
+			[
+				"boo",
+				"bottom"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"photo",
+				"photoshop"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"lA",
+				"label"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "exemple.html",
+			"settings":
+			{
+				"buffer_size": 14643,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 230.0,
+		"last_filter": "inden",
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sass",
+				"Set Syntax: CSS"
+			],
+			[
+				"Package Control: sass",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 587.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/css"
+	],
+	"file_history":
+	[
+		"/Users/Apple/www/gm/app/contact.php",
+		"/Users/Apple/www/gm/app/header.php",
+		"/Users/Apple/www/gm/app/js/testpage.js",
+		"/Users/Apple/www/gm/app/footer.php",
+		"/Users/Apple/www/gm/app/js/overlay.js",
+		"/Users/Apple/www/gm/dist/css/style.min.css",
+		"/Users/Apple/www/I2K/WWWI2K/js/carouselGal.js",
+		"/Users/Apple/www/I2K/WWWI2K/js/photos.js",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/_couleurs.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/style.scss",
+		"/Users/Apple/www/gm/app/index.html",
+		"/Users/Apple/www/gm/app/index.php",
+		"/Users/Apple/www/gm/app/header.html",
+		"/Users/Apple/www/gulpfile.js",
+		"/Users/Apple/www/gm/package.json",
+		"/Applications/MAMP/htdocs/_gmouchet/mail.php",
+		"/Applications/MAMP/htdocs/_gmouchet/form.php",
+		"/Applications/MAMP/htdocs/_gmouchet/header.php",
+		"/Applications/MAMP/htdocs/_gmouchet/contact.php",
+		"/Applications/MAMP/htdocs/_gmouchet/portfolio.php",
+		"/Applications/MAMP/htdocs/_gmouchet/footer.php",
+		"/Applications/MAMP/htdocs/gmouchet.sublime-project",
+		"/Applications/MAMP/htdocs/_gmouchet/index.php",
+		"/Applications/MAMP/htdocs/_gmouchet/portfolio.dev.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/style.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/js/overlay.js",
+		"/Applications/MAMP/htdocs/_gmouchet/js/overlay.min.js",
+		"/Applications/MAMP/htdocs/_gmouchet/js/analytics.min.js",
+		"/Applications/MAMP/htdocs/_gmouchet/css/style.css",
+		"/Applications/MAMP/htdocs/css/style.css",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/gal.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/carouselGal.debug.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/carouselGal.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/menu.min.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/menu.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/index.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/_menu.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/_font.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/indexCopie18oct.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/carouselGal.min.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/carouselHome.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/carouselHome.min.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/testJQ.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/indexCopie.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/photos.js",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/js/photos.min.js",
+		"/Applications/MAMP/htdocs/testJQ.php",
+		"/Applications/MAMP/htdocs/bob/scss/_variables.scss",
+		"/Applications/MAMP/htdocs/bob/scss/_navbar.scss",
+		"/Applications/MAMP/htdocs/bob/scss/freelancer.scss",
+		"/Applications/MAMP/htdocs/bob/scss/_global.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/owl.theme.i2k.css",
+		"/Applications/MAMP/htdocs/bob/index.html",
+		"/Applications/MAMP/htdocs/bob/scss/_bootstrap-overrides.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/owl.theme.default.css",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/owl.theme.default.min.css",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/src/scss/_theme.default.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/src/scss/owl.theme.default.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/owlcarousel/src/scss/owl.carousel.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/scrollspy.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/headerscrollspy.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/header.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/_scrollspy.php",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/_valign.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/css/scss/_swapcolor.scss",
+		"/Applications/MAMP/htdocs/I2K/WWWI2K/form.php",
+		"/Applications/MAMP/htdocs/I2K/css/scss/style.scss",
+		"/Applications/MAMP/htdocs/I2K/index.php",
+		"/Applications/MAMP/htdocs/I2K/exemple.php",
+		"/Applications/MAMP/htdocs/I2K/fluid.html",
+		"/Applications/MAMP/htdocs/I2K/img/triangle3.svg",
+		"/Applications/MAMP/htdocs/I2K/indexB.php",
+		"/Applications/MAMP/htdocs/I2K/img/triangle2.svg",
+		"/Applications/MAMP/htdocs/I2K/img/pictos.svg",
+		"/Applications/MAMP/htdocs/I2K/img/triangle1.svg",
+		"/Applications/MAMP/htdocs/I2K/carroussel/docs/index.html",
+		"/Applications/MAMP/htdocs/_modules/OwlCarousel2/README.md",
+		"/Applications/MAMP/htdocs/I2K/css/scss/_valign.scss",
+		"/Applications/MAMP/htdocs/I2K/assets/OwlCarousel2/README.md",
+		"/Applications/MAMP/htdocs/I2K/css/scss/_font.scss",
+		"/Applications/MAMP/htdocs/svg.php",
+		"/Users/Apple/Desktop/triangle.svg",
+		"/Applications/MAMP/htdocs/I2K/form.php",
+		"/Applications/MAMP/htdocs/I2K/footer.php",
+		"/Applications/MAMP/htdocs/I2K/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/I2K/css/bootstrap.min.css",
+		"/Applications/MAMP/htdocs/_old/_bootstrap_template/index.php",
+		"/Applications/MAMP/htdocs/test.svg",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/_swapcolor.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/_font.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/_gmouchet/liens.php",
+		"/Applications/MAMP/htdocs/_gmouchet/sent.php",
+		"/Applications/MAMP/htdocs/_gmouchet/portfolio.php.old",
+		"/Applications/MAMP/htdocs/_gmouchet/css/navbar.css",
+		"/Applications/MAMP/htdocs/_gmouchet/portfolio.html",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/style.scss.css",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/starter-template.scss.css",
+		"/Applications/MAMP/htdocs/_gmouchet/css/scss/starter-template.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/css/starter-template.css",
+		"/Applications/MAMP/htdocs/css/scss/_fonts.scss",
+		"/Applications/MAMP/htdocs/css/scss/style.scss",
+		"/Applications/MAMP/htdocs/css/scss/_swapcolor.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/files/scss/starter-template.scss",
+		"/Applications/MAMP/htdocs/_gmouchet/files/scss/starter-template.scss.css",
+		"/Applications/MAMP/htdocs/_gmouchet/files/scss/starter-template.css",
+		"/Applications/MAMP/htdocs/_gmouchet/files/starter-template.css",
+		"/Applications/MAMP/htdocs/footer.php",
+		"/Applications/MAMP/htdocs/sass/test.scss",
+		"/Applications/MAMP/htdocs/css/bootstrap.css",
+		"/Applications/MAMP/htdocs/css/bootstrap-theme.css",
+		"/Applications/MAMP/htdocs/index.html",
+		"/Applications/MAMP/htdocs/Starter Template for Bootstrap_files/starter-template.css",
+		"/Applications/MAMP/htdocs/portfolio.html",
+		"/Applications/MAMP/htdocs/portfolio.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/mail.php",
+		"/Applications/MAMP/htdocs/sent.php",
+		"/Applications/MAMP/htdocs/form.php",
+		"/Applications/MAMP/htdocs/head.php",
+		"/Applications/MAMP/htdocs/sentB.php",
+		"/Applications/MAMP/htdocs/formulaire_mail.php",
+		"/Applications/MAMP/htdocs/assets/css/style.css",
+		"/Applications/MAMP/htdocs/sitesportfolio.php",
+		"/Applications/MAMP/htdocs/samanta921637491711.xml",
+		"/Applications/MAMP/htdocs/assets/css/bootstrap-theme.css.map"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"loaderPopup",
+			"titrePage",
+			"popup",
+			"titreheader",
+			"uglify",
+			"<!--  -->",
+			"border",
+			"transition",
+			"animation",
+			"$var-vert",
+			"background-color: $var-vert;",
+			"titrePage",
+			"titreheader",
+			"csso",
+			"vinyl",
+			"blue",
+			"html",
+			"col-lg-8",
+			"container-fluid",
+			"#262864",
+			"#2b3a85",
+			"#c5de3e",
+			"#e51f2d",
+			">\n",
+			"php",
+			">\n",
+			"section",
+			"row"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "exemple.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 14643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14643,
+								14643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "bdc.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 3
+	}
+}
